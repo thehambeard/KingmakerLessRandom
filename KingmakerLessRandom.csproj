@@ -100,6 +100,7 @@
     <Compile Include="Core.cs" />
     <Compile Include="DefaultLanguage.cs" />
     <Compile Include="Main.cs" />
+    <Compile Include="Menu\Settings.cs" />
     <Compile Include="Patches\RulebookEvent_D.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Settings.cs" />

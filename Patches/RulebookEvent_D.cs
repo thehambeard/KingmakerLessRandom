@@ -50,6 +50,7 @@ namespace KingmakerLessRandom.Patches
                         __result = BucketWrapper.D100.Result(rolls);
                         break;
                 }
+                //Main.Mod.Debug(__result);
                 return false;
             }
         }
