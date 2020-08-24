@@ -2,9 +2,10 @@
     "Id": "KingmakerLessRandom",
     "DisplayName": "KingmakerLessRandom",
     "Author": "Hambeard",
-    "Version": "1.0.0",
-    "ManagerVersion": "0.18.0",
+    "Version": "0.1.0",
+    "ManagerVersion": "0.22.9",
     "Requirements": [],
     "AssemblyName": "KingmakerLessRandom.dll",
+    "Repository": "https://raw.githubusercontent.com/thehambeard/UMMupdates/master/Repository.json",
     "EntryMethod": "KingmakerLessRandom.Main.Load"
 }
