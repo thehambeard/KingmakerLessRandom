@@ -1,5 +1,6 @@
 ## KingmakerLessRandom
-# vesion beta 0.1.0
+# vesion 0.1.0 beta
+
 Kingmaker Less Random does just what it says on the tin, calms down the randomness somewhat.  Here is how it works, each die in the game has it's own what
 we will call a bucket.  There is a number for each side of the die in the bucket. D20's will have 20 numbers in the bucket numbered 1-20 for example, the bucket
 is shaken to mix them up. Each time the game needs a number it reaches in the bucket drawing out a random number.  Now for our d20 example, if the computer drew
